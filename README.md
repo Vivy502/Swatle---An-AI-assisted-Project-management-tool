@@ -113,3 +113,5 @@ function displayAnalysis(analysis) {
 
 
 //
+Created by Vivyn
+https://www.swatle.ai/
